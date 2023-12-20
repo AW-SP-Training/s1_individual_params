@@ -1,25 +1,25 @@
 sensor_kit_base_link:
   camera0/camera_link:
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    roll: 0.0
-    pitch: 0.0
-    yaw: 0.0
+    x: 1.3304378197733318
+    y: -0.05657063464878904
+    z: 0.5208258270165382
+    roll: -0.0013344663688202774
+    pitch: -0.02455768753140659
+    yaw: 0.02806545803872523
   velodyne_front_base_link:
-    x: 0.0
+    x: 0.7
     y: 0.0
-    z: 0.0
+    z: 0.1
     roll: 0.0
     pitch: 0.0
     yaw: 0.0
   velodyne_rear_base_link:
-    x: 0.0
+    x: -0.3
     y: 0.0
-    z: 0.0
+    z: 0.1
     roll: 0.0
     pitch: 0.0
-    yaw: 0.0
+    yaw: 3.14159265359
   imu_link:
     x: 0.0
     y: 0.0
